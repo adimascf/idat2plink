@@ -9,4 +9,4 @@ i     A path idat files directory.
 o     A path to gtc output directory.
 g     A path to reference genome .fasta.
 p     A prefix for output file.
-h     Show this help and exit```
+h     Show this help and exit
