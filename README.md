@@ -17,7 +17,7 @@ In order to run the scripts, you have to have following files:
 - Cluster file in format .egt. For instance, [Infinium ASA Screening Array](https://support.illumina.com/array/array_kits/infinium-asian-global-screening-array/downloads.html)
 - Reference genome in .fasta format. The reference build version should follow your manifest and cluster files. [Which human reference genome to use](https://lh3.github.io/2017/11/13/which-human-reference-genome-to-use)
 
-Also, you have to install and move to your path these following programs:
+Also, you have to install these following programs and move the binaries to your path:
 - [IAAP Genotyping Command Line Interface (CLI)](https://support.illumina.com/downloads/iaap-genotyping-cli.html)
 - [bcftools and gtc2vcf](https://github.com/freeseek/gtc2vcf)
 - [PLINK](https://www.cog-genomics.org/plink/2.0/)
