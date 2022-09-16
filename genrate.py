@@ -1,4 +1,4 @@
-#!/home/adimascf/miniconda3/bin/python
+#!/usr/bin/python3
 
 from IlluminaBeadArrayFiles import GenotypeCalls
 import os
