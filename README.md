@@ -19,7 +19,7 @@ In order to run the script, you have to have following files:
 
 Also, you have to install and move to your path these following programs:
 - [IAAP Genotyping Command Line Interface (CLI)](https://support.illumina.com/downloads/iaap-genotyping-cli.html)
-- [bcftools and bfctools](https://github.com/freeseek/gtc2vcf)
+- [bcftools and gtc2vcf](https://github.com/freeseek/gtc2vcf)
 - [PLINK](https://www.cog-genomics.org/plink/2.0/)
 
 
