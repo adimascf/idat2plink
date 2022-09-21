@@ -1,4 +1,9 @@
- #!/usr/bin/bash
+#!/usr/bin/bash
+
+# If the sub program give non zero output, this script will immedietely exit
+set -e
+set -u
+set -o pipefail
 
 ################################################################################
 # Help                                                                         #
