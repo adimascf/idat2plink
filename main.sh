@@ -14,14 +14,14 @@ Help()
    echo "A simple program to covert .idat files to plink format files."
    echo
    echo "Options:"
-   echo "b     A path to .bpm manifest."
-   echo "s     A path to .csv manifest."
-   echo "c     A path to cluster .egt."
-   echo "i     A path idat files directory."
-   echo "o     A path to gtc output directory."
-   echo "g     A path to reference genome .fasta."
-   echo "p     A prefix for output file."
-   echo "h     Show this help and exit"
+   echo "-b     A path to .bpm manifest."
+   echo "-s     A path to .csv manifest."
+   echo "-c     A path to cluster .egt."
+   echo "-i     A path to idat files directory."
+   echo "-o     A path to gtc output directory."
+   echo "-g     A path to reference genome .fasta."
+   echo "-p     A prefix for output file."
+   echo "-h     Show this help and exit"
    echo
 }
 
