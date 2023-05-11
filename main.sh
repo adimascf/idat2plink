@@ -90,4 +90,4 @@ bcftools norm -Ou -m -any $OUT_PREFIX.vcf.gz |
     --allow-extra-chr 0 \
     --split-x b38 no-fail \
     --make-bed \
-    --out output
+    --out $OUT_PREFIX
