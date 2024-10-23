@@ -1,3 +1,6 @@
+It is now recommended to use the fully supported Illumina solution [DRAGEN Array](https://www.illumina.com/products/by-type/informatics-products/microarray-software/dragen-array.html) to convert IDAT to VCF files
+
+
 `./main.sh -h`
 ```
 A simple program to covert .idat files to plink format files.
